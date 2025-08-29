@@ -26,7 +26,7 @@ Powered by the [Spotify Web API](https://developer.spotify.com/documentation/web
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 vinyl/
 ├── public/ # Static assets
@@ -39,7 +39,7 @@ vinyl/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. Clone the repo
 
@@ -54,14 +54,14 @@ vinyl/
 
 5. Build for production
 
-📌 Future Improvements
+## Future Improvements
 
 Add track previews
 Implement user authentication (Spotify login)
 Dark mode toggle
 Mobile optimizations
 
-📜 License
+## License
 
 This project is licensed under the MIT License.
 
