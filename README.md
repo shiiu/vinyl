@@ -27,6 +27,7 @@ Powered by the [Spotify Web API](https://developer.spotify.com/documentation/web
 ---
 
 ## 📂 Project Structure
+```bash
 vinyl/
 ├── public/ # Static assets
 ├── src/ # React components & logic
@@ -34,7 +35,7 @@ vinyl/
 ├── package.json # Dependencies & scripts
 ├── vite.config.js # Vite configuration
 └── README.md # Project documentation
-
+```
 
 ---
 
